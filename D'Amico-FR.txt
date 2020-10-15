@@ -1,0 +1,13 @@
+1)The system shall provide a customizable** page for each user. 
+
+2)The system shall provide a tag system to find events*.
+
+3)The system shall provide a group chat for users partecipating in an event. 
+    3.1) The activist that created the event can moderate the chat.
+    3.2) The activist that created the event can appoint users to act as moderators for the group chat.
+
+
+*event: a functionality provided by the system to encourage users to consume products of their choosing with set specifications in a limited time frame. Only activists and brand managers can create events.
+    The creator of the event specifies its duration and the specifications needed to partecipate in it.
+
+**customizable: users can customize their name, profile picture and the list of their personal goals.
