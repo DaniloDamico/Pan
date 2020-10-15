@@ -1,0 +1,6 @@
+
+1)  As a brand manager I want to advertise my environmentally friendly product to the right niche so that the advertisement will be more effective 
+
+2)  As a user I want to add personal goals to my profile so that I can motivate myself to accomplish them 
+
+3)  As an activist I want to comment under other users’ posts so that I can suggest them to adopt products that have a lower environmental impact 
