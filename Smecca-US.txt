@@ -1,0 +1,5 @@
+1) As a housewife I want to be notified before the expiry date of a product added to my profile, so that I can consume it in time. 
+ 
+2) As a user I want to be involved in projects to dispose the products I own, so that I can save my money buying just what I need. 
+ 
+3) As an activist I want to create projects to encourage users to avoid waste, so that I can contribute to reduce environmental pollution. 
