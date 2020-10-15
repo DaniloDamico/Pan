@@ -1,13 +1,11 @@
-1) As a housewife I want to be notified before** the expiry date of a product added to my profile*, so that I can consume it in time. 
+1) As a housewife I want to be notified about the expiry date of a product added to my profile* on a date set by me, so that I can consume the product in time. 
  
-2) As a user I want to be involved in events*** to dispose the products I own, so that I can save my money buying just what I need. 
+2) As a user I want to be involved in events** to dispose the products I own, so that I can save my money buying just what I need. 
  
-3) As an activist I want to create events*** to encourage users to avoid waste, so that I can contribute to reduce environmental pollution.
+3) As an activist I want to create events** to encourage users to avoid waste, so that I can contribute to reduce environmental pollution.
 
 *profile: customizable page where users can customize their name, their profile picture and the list of their personal goals.
 
-**before: the user can set the date on which to be notified.
-
-***events: functionalities provided by the system to encourage users to consume products of their choosing with set specifications in a limited time frame. Only activists and brand managers can create events. The creator of the event specifies its duration and the specifications needed to partecipate in it.
+**events: functionalities provided by the system to encourage users to consume products of their choosing with set specifications in a limited time frame. Only activists and brand managers can create events. The creator of the event specifies its duration and the specifications needed to partecipate in it.
 
  
