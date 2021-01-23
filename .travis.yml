@@ -7,6 +7,6 @@ addons:
   token:
    secure: "46af9a1e8d61dd9a8ac73064c21e21cb40f8eae7"
 
-script: 
+script:
  - ant build
  - sonar-scanner
