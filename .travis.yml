@@ -3,7 +3,7 @@ jdk: oraclejdk15
 
 addons:
  sonarcloud:
-  organization: "danilodamico"
+  organization: "DaniloDamico"
   token:
    secure: "46af9a1e8d61dd9a8ac73064c21e21cb40f8eae7"
 
