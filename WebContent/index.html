@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Crea evento</title>
+<link href="css/style.css?ts=<?=time()?>&quot" rel="stylesheet">
+</head>
+<body>
+<body>
+	<div class="nav-container">
+		<div class="wrapper">
+			<nav>
+				<div class="logo">
+					Crea evento
+				</div>
+				<ul class="nav-items">
+					<li>
+						<a class="nav-btn-container" href="#">
+							<img class="cup-btn" src="images/cup@3x.svg" alt="">
+						</a>
+					</li>
+					<li>
+						<a class="nav-btn-container" href="#">
+							<img class="time-btn" src="images/calendar-plus.svg" alt="">
+						</a>
+					</li><li>
+						<a class="nav-btn-container" href="#">
+							<img class="bell-btn" src="images/bell.svg" alt="">
+						</a>
+					</li><li>
+						<a class="nav-btn-container" href="www.google.com">
+							<img class="impo-btn" src="images/impostazioni.svg" alt="">
+						</a>
+					</li><li>
+						<a class="nav-btn-container" href="#">
+							<img class="io-btn" src="images/Ellipse 1.png" alt="">
+						</a>
+					</li>
+				</ul>
+				
+			</nav>
+		</div>
+	</div>
+	<div class="header-container">
+		<div class="wrapper">
+			<header>
+				<div class="hero-content">
+					<form><!-- disegniamo un form -->
+						<table>
+							<tr>
+								<td>Nome:</td>
+								<td><input type="text" name="NomeEvento" size="100" placeholder="Inserisci il nome dell'evento..."></td><!-- size è la grandezza in caratteri, maxlenght è il numero di caratteri che possiamo inserire -->
+							</tr>
+							<tr>
+								<td>Descrizione:</td>
+								<td><input type="text" name="DescrizioneEvento" size="100" placeholder="Inserisci una descrizione..."></td><!-- size è la grandezza in caratteri, maxlenght è il numero di caratteri che possiamo inserire -->
+							</tr>
+							<tr>
+								<td>Durata:</td>
+								<td><input type="text" name="DurataEvento" size="100" placeholder="Inserisci una durata..."></td><!-- size è la grandezza in caratteri, maxlenght è il numero di caratteri che possiamo inserire -->
+							</tr>
+							<tr>
+								<td>Prodotti:</td>
+								<td><input type="text" name="ProdottiEvento" size="100" placeholder="Inserisci le categorie di prodotti..."></td><!-- size è la grandezza in caratteri, maxlenght è il numero di caratteri che possiamo inserire -->
+							</tr>
+							<tr>
+								<td>Evento live:</td>
+								<td><input name="EventoLive" type="checkbox"></td>
+							</tr>
+							<tr>
+								<td>Evento sponsorizzato:</td>
+								<td><input name="EventoSponsorizzato" type="checkbox"></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td><!-- lasciamo libera la prima casella, basta anche aprire e chiudere il tag senza scrivere nulla dentro-->
+								<td><input name="Cancel" type="button" value="Annulla"> <!-- value è quello che vediamo scritto sul bottone, il tipo submit ricarica la pagina se nella form non è specificata alcuna azione -->
+									<input name="Reset" type="reset" value="Reset">
+									<input name="Crea" type="submit" value="Crea"><!-- lo mettiamo nella stessa colonna, reset cancella tutto -->
+								</td>
+							</tr>	
+						</table>
+					</form>				
+				</div>
+<!-- 				<div class="hero-image"> -->
+<!-- 					<img src="images/Rettangolo arancione.png" alt=""> -->
+<!-- 				</div> -->
+			</header>		
+		</div>	
+	</div>
+</body>
+</html>
