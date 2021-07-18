@@ -2,7 +2,7 @@
 
 2) The system shall provide to all users an upload image feature (max size: 7 Mb).  
 
-3) The system shall provide a GPS feature.  
+3) The system shall provide a BarCode scanner feature.  
 
 *the push notifications contains a reminder about an item added to their profile. 
   
